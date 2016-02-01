@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B8E6B6A-F4B4-3115-DEE8-18B6C1958BDA}") = "SceneManagementExample", "Assembly-CSharp.csproj", "{94295370-35A4-D322-D90D-6CD76EEF8F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94295370-35A4-D322-D90D-6CD76EEF8F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94295370-35A4-D322-D90D-6CD76EEF8F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94295370-35A4-D322-D90D-6CD76EEF8F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94295370-35A4-D322-D90D-6CD76EEF8F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
